@@ -1,0 +1,7 @@
+interface:
+  display_name: "等距方块贴纸世界"
+  short_description: "从参考图提取印象元素，生成微缩等距 Q 版方块剪纸贴纸插画"
+  default_prompt: "使用 $isometric-block-sticker-world 帮我完成……"
+
+policy:
+  allow_implicit_invocation: true
